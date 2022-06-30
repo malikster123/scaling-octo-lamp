@@ -4,3 +4,7 @@ Sample text
 
 ## Section 1 
 Some more example content here....
+.
+..
+.git
+README.md
